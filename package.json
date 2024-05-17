@@ -1,0 +1,28 @@
+{
+  "name": "hex-to-json",
+  "version": "1.0.0",
+  "description": "Convert hex to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Web-Widget/hex-to-json.git"
+  },
+  "keywords": [
+    "hex",
+    "json",
+    "web3",
+    "decode",
+    "ethers",
+    "hex-to-json",
+    "convert hex to json"
+  ],
+  "author": "Biome Tech Org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Team-Web-Widget/hex-to-json/issues"
+  },
+  "homepage": "https://github.com/Team-Web-Widget/hex-to-json#readme"
+}
