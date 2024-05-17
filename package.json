@@ -17,6 +17,7 @@
     "decode",
     "ethers",
     "hex2json",
+    "hex-to-json",
     "convert hex to json"
   ],
   "author": "Biome Tech Org",
