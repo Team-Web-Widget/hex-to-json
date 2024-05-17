@@ -1,5 +1,5 @@
 {
-  "name": "hex-to-json",
+  "name": "hex2json",
   "version": "1.0.0",
   "description": "Convert hex to json",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Team-Web-Widget/hex-to-json.git"
+    "url": "git+https://github.com/Team-Web-Widget/hex2json.git"
   },
   "keywords": [
     "hex",
@@ -16,13 +16,13 @@
     "web3",
     "decode",
     "ethers",
-    "hex-to-json",
+    "hex2json",
     "convert hex to json"
   ],
   "author": "Biome Tech Org",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Team-Web-Widget/hex-to-json/issues"
+    "url": "https://github.com/Team-Web-Widget/hex2json/issues"
   },
-  "homepage": "https://github.com/Team-Web-Widget/hex-to-json#readme"
+  "homepage": "https://github.com/Team-Web-Widget/hex2json#readme"
 }
